@@ -72,3 +72,29 @@ And use it as you wish to use.
   Set Encryption = Nothing
 %>
 ```
+
+## Output Example
+
+```txt
+Default Key: GNQ?4i0-*\CldnU+[vrF1j1PcWeJfVv4QGBurFK6}*l[H1S:oY\v@U?i,oD]f/n8oFk6NesH--^PJeCLdp+(t8SVe:ewY(wR9p-CzG<,Q/(U*.pXDiz/KvnXP`BXnkgfeycb)1A4XKAa-2G}74Z8CqZ*A0P8E[S`6RfLwW+Pc}13U}_y0bfscJW/m1D*YoAlkBK@`3A)trZsO5xv@5@MRRFkt\
+
+Key: /[g-?#4Fd$-T/{\d3%%.@!specialLongKey$%&₺sW
+
+Keyword: Bu gizli bir kelimedir, gizli olarak kalması gerekmektedir!
+
+Encrypted: A%A0Wdxmp%7FTVf%96%1F%B6%91%A0lbZbyco%60%9C%9C%B3%9D%A5%3C%AE%AA%98%8D%96%B4%14%60W%1F%BF%EB%B6%EB%B0K%9Eb%81Xo%83%99%5Fq%89c%B4%9EU
+
+Decrypted: Bu gizli bir kelimedir, gizli olarak kalması gerekmektedir!
+
+Key Save Path: C:\Inetpub\vhosts\adjans.com.tr\rabbitcms.adjans.com.tr\content\keyFiles
+
+File Saved: True
+
+Last Saved File Name: mykey.txt
+
+Readed Key File: mykey.txt
+
+Readed Key Value: /[g-?#4Fd$-T/{\d3%%.@!specialLongKey$%&₺sW
+
+Not Exist Readed Key File: File Not Found
+```
