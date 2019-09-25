@@ -7,7 +7,7 @@ You are free to develop as you wish. It provides you with all the parameters you
 
 For advanced use; You can create a key file for each defined user or store it in the database of that user. Thus, each encrypted data becomes unique.
 
-I recommend using a password of at least 512 characters.
+I recommend using a unique private key at least 512 characters.
 
 ## Usage 
 Import class your project
