@@ -86,7 +86,7 @@ Encrypted: A%A0Wdxmp%7FTVf%96%1F%B6%91%A0lbZbyco%60%9C%9C%B3%9D%A5%3C%AE%AA%98%8
 
 Decrypted: Bu gizli bir kelimedir, gizli olarak kalması gerekmektedir!
 
-Key Save Path: C:\Inetpub\vhosts\adjans.com.tr\rabbitcms.adjans.com.tr\content\keyFiles
+Key Save Path: C:\Inetpub\vhosts\mydomain.com\httpdocs\content\keyFiles
 
 File Saved: True
 
